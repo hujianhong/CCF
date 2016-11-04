@@ -25,6 +25,7 @@ import java.util.Scanner;
  * @date 2016年11月4日
  */
 public class C2013122 {
+	
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
